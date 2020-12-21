@@ -5,7 +5,7 @@ public function main() returns error?{
     io:println("Created MySQL client");
 
     check dbClient.close();
-    // some changes
+    // some changes 2
    
 }
 
