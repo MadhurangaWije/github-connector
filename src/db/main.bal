@@ -7,7 +7,7 @@ public function main() returns error?{
     check dbClient.close();
     // some changes 2
     // some more and more chages
-   
+   // changed added by feature3
 }
 
 
