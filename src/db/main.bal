@@ -8,7 +8,7 @@ public function main() returns error?{
     // some changes 2
     // some more and more chages
    // changed added by feature3
-   // more changes
+   // more changes 2
 }
 
 
